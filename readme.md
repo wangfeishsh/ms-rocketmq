@@ -110,6 +110,7 @@ iptables -F
 ```bash
 /etc/hosts
 /etc/sysconfig/network
+/proc/sys/kernel/hostname
 ```
 
 2. JAVA_HOME
